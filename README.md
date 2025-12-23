@@ -33,11 +33,6 @@ This tool explains *why* a service fits your use case.
 
 ---
 
-## Screenshots
-(Add 1–2 screenshots only)
-
----
-
 ## Limitations
 - No real-time AWS pricing
 - Static capability scores
