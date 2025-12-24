@@ -40,7 +40,7 @@ This tool explains *why* a service fits your use case.
 
 ---
 
-##Live Demo
+## Live Demo
 🔗 Live Demo: https://cloud-decision-explainer-dgwka7wzgvo2ofdarkpnmj.streamlit.app
 
 ---
